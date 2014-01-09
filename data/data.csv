@@ -1,6 +1,6 @@
 Timestamp,How old are you?,Where do you come from?,Male or Female ?,Position?,Do you Like coffe ? ,What MAIN program/ language you use to do your stuff? ,What SECONDARY program/ language you use to do your stuff? ,World / similar or LaTeX ?,Win / mac / linux,Do you care about open source/data/access ?,"Git , version control ?"
 05/01/2014 16:37:27,24,Italy,Male,Master,Addicted,Python,Mathematica,LaTeX,osX 10.9,yes,Can't live without
-05/01/2014 16:39:31,29,,Male,Technician ,Addicted,Matlab,Mathematica,LaTeX,Windows 7,free beer ? count me in !,"nice but too nerdy, dropbox is enough."
+05/01/2014 16:39:31,29,India,Male,Technician ,Addicted,Matlab,Mathematica,LaTeX,Windows 7,free beer ? count me in !,"nice but too nerdy, dropbox is enough."
 05/01/2014 16:39:42,25,Denmark,Male,Master,Yes,Matlab,C/C++,LaTeX,Linux (all flavors),yes,"nice but too nerdy, dropbox is enough."
 05/01/2014 16:39:57,57,Denmark,Male,Senior,Yes,Mathematica,Visual Basic,LaTeX,Windows 8,no,Can't live without
 05/01/2014 16:40:56,27,the netherlands,Female,Phd,No,Matlab,Python,LaTeX,osX 10.9,yes,"nice but too nerdy, dropbox is enough."
@@ -24,3 +24,8 @@ Timestamp,How old are you?,Where do you come from?,Male or Female ?,Position?,Do
 05/01/2014 22:03:15,24,Denmark,Male,Master,Yes,Mathematica,Python,LaTeX,Windows 7,yes,"nice but too nerdy, dropbox is enough."
 05/01/2014 22:51:03,25,Germany,Male,Master,Yes,Matlab,Python,LaTeX,osX 10.9,yes,"Yeah whatever, I have a life."
 05/01/2014 23:45:58,32,Australia,Male,Senior,Yes,Matlab,,LaTeX,osX 10.7,yes,"nice but too nerdy, dropbox is enough."
+06/01/2014 11:34:52,35,Denmark,Male,Senior,No,Mathematica,Matlab,LaTeX,osX 10.9,yes,"nice but too nerdy, dropbox is enough."
+06/01/2014 12:07:50,25,Denmark,Female,Master,Yes,notepad,word,LaTeX,osX 10.7,free beer ? count me in !,"Yeah whatever, I have a life."
+,,,,,,,,,,,
+07/01/2014 10:54:04,37,Denmark,Male,Senior,Yes,Don't program,Don't program,LaTeX,Windows 7,no,"nice but too nerdy, dropbox is enough."
+07/01/2014 11:41:37,26,Denmark,Male,Master,Yes,Igor pro,,LaTeX,Windows 7,no,"nice but too nerdy, dropbox is enough."
